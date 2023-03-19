@@ -1,2 +1,2 @@
-# doc
-Adornion documentation website
+Adornion is a [Hugo](https://gohugo.io/) theme.
+
