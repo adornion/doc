@@ -1,0 +1,3 @@
+[submodule "themes/adornion"]
+	path = themes/adornion
+	url = https://github.com/adornion/adornion.git
